@@ -1379,6 +1379,7 @@ a {
 .cid-u7l0TKRybI .mbr-text,
 .cid-u7l0TKRybI .mbr-section-btn {
   color: #000000;
+  text-align: center;
 }
 .cid-u7l6XmS5CP {
   padding-top: 6rem;
@@ -1754,6 +1755,9 @@ a {
 }
 .cid-u7nwHzVmy6 .content-head {
   max-width: 800px;
+}
+.cid-u7nwHzVmy6 H4 {
+  text-align: center;
 }
 .cid-u7nHMaV1oN {
   padding-top: 6rem;
